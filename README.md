@@ -167,9 +167,9 @@ The dashboard includes:
 
 ### Dashboard Preview
 
-Add your dashboard screenshot to your GitHub repository and place it here.
 
-```text
+
+
 ![Bike Sales Dashboard](Dashboard.png)
 
 
@@ -184,7 +184,7 @@ The analysis helps identify patterns in customer behavior, including:
 * Regional variations in bike purchases.
 * The influence of marital status on purchasing behavior.
 
----
+
 
 ## 📁 Project Structure
 
