@@ -170,12 +170,8 @@ The dashboard includes:
 Add your dashboard screenshot to your GitHub repository and place it here.
 
 ```text
-![Bike Sales Dashboard](dashboard.png)
-```
+![Bike Sales Dashboard](Dashboard.png)
 
-> Make sure your dashboard image is named `dashboard.png` and placed in the same project folder as this README file.
-
----
 
 ## 💡 Key Insights
 
@@ -236,5 +232,5 @@ Aspiring Data Analyst | Information Technology Graduate
 
 ### Connect with me
 
-* LinkedIn: Add your LinkedIn profile link
-* GitHub: Add your GitHub profile link
+* LinkedIn: https://www.linkedin.com/in/duke-mochama-27257525b/
+* GitHub: https://github.com/DukeMochama2022/
